@@ -1,5 +1,3 @@
-# ibm_project
-
 # Next Sentence Prediction using Generative AI
 
 ## Project Overview
